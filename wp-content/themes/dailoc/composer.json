@@ -1,0 +1,30 @@
+{
+  "name"             : "gaumap/wordpress",
+  "description"      : "Theme wordpress duoc phat trien boi Gau Map Developer",
+  "license"          : "MIT",
+  "authors"          : [
+    {
+      "name" : "Triet Nguyen Minh",
+      "email": "triet.nguyen207@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require"          : {
+    "illuminate/database"      : "^5.5",
+    "htmlburger/carbon-fields" : "^2.1",
+    "johnbillion/extended-cpts": "^4.2",
+    "symfony/var-dumper"       : "^3.3",
+    "social-links/social-links": "^1.13",
+    "overtrue/socialite"       : "^1.3",
+    "netrivet/wp-router"       : "^2.0",
+    "htmlburger/wpemerge"      : "^0.9.0"
+  },
+  "autoload"         : {
+    "psr-4": {
+      "Gaumap\\": "src/"
+    },
+    "files": [
+      "src/autoload.php"
+    ]
+  }
+}

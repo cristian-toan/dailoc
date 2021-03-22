@@ -1,0 +1,25 @@
+/*
+ * Theme Name: Kiến trúc Đại Lộc
+ * Description: Template for Wordpress - Developed by NR Global
+ * Theme URI: http://nrglobal.vn
+ * Version: 1.0
+ * Theme Author: info.nrglobal@gmail.com
+ * Author: NR GLOBAL
+ * Author URI: http://nrglobal.vn
+ * Textdomain: gaumap
+ */
+.social-post .share-buttons, .social-post .share-face{
+	float: left;
+}
+.social-post .share-face{
+	margin-left: 5px;
+    color: #fff;
+    background-color: #4267b2;
+    border-radius: 5px;
+    font-family: Helvetica, Arial, sans-serif;
+    vertical-align: middle;
+    padding: 0px 4px;
+    font-size: 11px;
+    cursor: pointer;
+    font-weight: bold;
+}

@@ -1,0 +1,13 @@
+{
+  "settings": {
+    "toolbar_1": "formatselect,fontselect,fontsizeselect,backcolor,bold,italic,underline,subscript,superscript,strikethrough,blockquote,bullist,numlist,alignleft,aligncenter,alignright,alignjustify",
+    "toolbar_2": "undo,redo,cut,copy,paste,pastetext,outdent,indent,link,unlink,image,media,wp_code,emoticons,removeformat,charmap,wp_more,forecolor,table,wp_help,code,fullscreen",
+    "toolbar_3": "",
+    "toolbar_4": "",
+    "options": "menubar,advlist,contextmenu,advlink,fontsize_formats",
+    "plugins": "emoticons,table,code,advlist,link,contextmenu"
+  },
+  "admin_settings": {
+    "disabled_editors": ""
+  }
+}

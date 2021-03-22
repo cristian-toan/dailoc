@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "UTMAvo";
+	src: url("../fonts/UTMAvo.eot");
+	src: url("../fonts/UTMAvo.eot?#iefix") format("embedded-opentype"),
+	url("../fonts/UTMAvo.woff") format("woff"),
+	url("../fonts/UTMAvo.ttf") format("truetype"),
+	url("../fonts/UTMAvo.svg#SVN-Avo") format("svg");
+	font-weight: 400;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
